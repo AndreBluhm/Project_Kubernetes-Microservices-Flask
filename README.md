@@ -7,10 +7,10 @@ A Kubernetes Hello World Project for Python Flask.  This project uses a simple F
 
 ## Assets in Repo
 
-* `Makefile`:  [Builds project](https://github.com/noahgift/kubernetes-hello-world-python-flask/blob/main/Makefile)
-* `Dockerfile`:  [Container configuration](https://github.com/noahgift/kubernetes-hello-world-python-flask/blob/main/Dockerfile)
-* `app.py`:  [Flask app](https://github.com/noahgift/kubernetes-hello-world-python-flask/blob/main/app.py)
-* `kube-hello-change.yaml`: [Kubernetes YAML Config](https://github.com/noahgift/kubernetes-hello-world-python-flask/blob/main/kube-hello-change.yaml)
+* `Makefile`:  Builds project
+* `Dockerfile`:  Container configuration
+* `app.py`:  Flask app
+* `kube-hello-change.yaml`: Kubernetes YAML Config
 
 ## Get Started
 
