@@ -1,11 +1,7 @@
 # Kubernetes Hello World
 A Kubernetes Hello World Project for Python Flask.  This project uses a simple Flask app that returns correct change as the base project and converts it to Kubernetes.
 
-<object data="http://github.com/AndreBluhm/Project_Kubernetes-Microservices-Flask/Coursera_Cloud-Virtualization-Containers-APIs.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="hhttp://github.com/AndreBluhm/Project_Kubernetes-Microservices-Flask/Coursera_Cloud-Virtualization-Containers-APIs.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+https://github.com/AndreBluhm/Project_Kubernetes-Microservices-Flask/Coursera_Cloud-Virtualization-Containers-APIs.png?raw=true
 
 ## Assets in Repo
 
